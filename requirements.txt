@@ -45,5 +45,4 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
-# check answers
-learn-python-ceg-check 
+
