@@ -46,4 +46,4 @@ plotly>=5,<6
 bqplot
 
 # check answers
-learn-python-ceg-test 
+learn-python-ceg-check 
